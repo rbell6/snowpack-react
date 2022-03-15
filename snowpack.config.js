@@ -5,6 +5,7 @@ export default {
   },
   plugins: [
     /* ... */
+    '@snowpack/plugin-babel'
   ],
   routes: [
     /* Enable an SPA Fallback in development: */
